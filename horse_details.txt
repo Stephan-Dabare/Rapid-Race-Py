@@ -1,0 +1,23 @@
+
+Horse Details Table: 
+| Horse ID  | Horse Name           | Jockey Name          | Horse Age | Horse Breed     | Race Record          | Horse Group |
+| 123       | sakdkf               | aefe                 | 4         | elf             | 5 wins in 7 races    | A           |
+| 165       | dlfjel               | ewfj                 | 6         | ewlfl           | 6 wins in 67 races   | A           |
+| 346       | dalg                 | egeegp               | 6         | ewgkg           | 7 wins in 80 races   | B           |
+| 376       | efj                  | ewgj                 | 7         | lrgsrl          | 8 wins in 10 races   | A           |
+| 436       | ewfljge              | elwl                 | 5         | jga             | 4 wins in 8 races    | A           |
+| 463       | lfj                  | ewlfl                | 4         | efme            | 6 wins in 9 races    | A           |
+| 465       | rgjrw                | regjlr               | 45        | gwjw            | 56 wins in 78 races  | D           |
+| 474       | ewjgk                | ewgej                | 6         | rgwjkgj         | 6 wins in 10 races   | C           |
+| 476       | wkejf                | rgj                  | 67        | ewjkg           | 6 wins in 10 races   | C           |
+| 487       | dlwjgl               | rwlj                 | 56        | rgwjglj         | 7 wins in 35 races   | B           |
+| 545       | gjwd                 | glsjl                | 45        | gsdlg           | 4 wins in 7 races    | C           |
+| 548       | rgl                  | rlwjlg               | 67        | rwgjlwr         | 4 wins in 56 races   | B           |
+| 558       | wejg                 | rlgj                 | 57        | kewjgwek        | 4 wins in 8 races    | D           |
+| 567       | gelrlk               | lwr                  | 6         | rljg            | 7 wins in 89 races   | B           |
+| 574       | dflew                | rljgw                | 5         | djvr            | 56 wins in 100 races | D           |
+| 576       | dslgj                | lgjr                 | 46        | dsgglj          | 34 wins in 145 races | D           |
+| 3547      | wlggj                | wrgj                 | 77        | ewkgk           | 7 wins in 10 races   | C           |
+| 4545      | ewlel                | ewkew                | 5         | wgl             | 7 wins in 10 races   | B           |
+| 4576      | kdsk                 | dkgkw                | 57        | dks             | 5 wins in 10 races   | C           |
+| 7564      | eje                  | rwgj                 | 56        | wgeml           | 8 wins in 10 races   | D           |
